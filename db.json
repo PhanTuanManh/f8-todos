@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "f8@gmail.com",
+      "password": "$2a$10$DzZ4uMIaNWCOQaBcEylNa.TU5d2nrbOmE/becYq.horAxGAy6oVOi",
+      "id": 1
+    },
+    {
+      "email": "manhphan.0501@gmail.com",
+      "password": "$2a$10$dhtQIW1c/A4dp2y2K9873eLjw5E/KtymkTakgwRxTwCsl5LdfqpZu",
+      "id": 2
+    },
+    {
+      "email": "phantuanmanh.0501@gmail.com",
+      "password": "$2a$10$btTDCOzihAKlbQSxY4DPg.9J9ePKY9DuMwk8TfeuZkMJaJHbtUZSO",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "task A",
+      "description": "detail A",
+      "status": "doing",
+      "priority": "high",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "task B",
+      "description": "detail B",
+      "status": "doing",
+      "priority": "high",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "task C",
+      "description": "detail C",
+      "status": "doing",
+      "priority": "high",
+      "userId": 2
+    },
+    {
+      "title": "đứaád",
+      "description": "123123",
+      "priority": "medium",
+      "status": "doing",
+      "id": 4
+    },
+    {
+      "name": "manh",
+      "id": 5
+    },
+    {
+      "name": "manh",
+      "id": 6
+    },
+    {
+      "title": "đá",
+      "description": "ád",
+      "priority": "low",
+      "status": "done",
+      "id": 7
+    },
+    {
+      "title": "ád",
+      "description": "ád",
+      "priority": "low",
+      "status": "done",
+      "userId": null,
+      "id": 8
+    },
+    {
+      "title": "123",
+      "description": "1234",
+      "priority": "low",
+      "status": "done",
+      "userId": "undefined",
+      "id": 9
+    },
+    {
+      "title": "3123",
+      "description": "123",
+      "priority": "medium",
+      "status": "done",
+      "userId": null,
+      "id": 10
+    }
+  ]
+}
